@@ -1,4 +1,4 @@
-# Đồ ấn Xử lý ảnh nhóm 3 67CS2
+# Đồ án Xử lý ảnh nhóm 3 67CS2
 
 ## Đề tài : Hệ thông điểm danh bằng nhận diện khuôn mặt
 
